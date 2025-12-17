@@ -1,3 +1,2 @@
 # Python-Text-to-Speech-App
-Have Fun Using This
-This code can be used by anyone
+When you type in text into this app, the app will make say it. It only works for English.
