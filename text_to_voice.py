@@ -42,11 +42,11 @@ def respond():
 x = tk.Button(root, command=respond, text="Respond")
 x.pack()
 
-def quit_bruh():
+def quit_():
     root.destroy()
 
 
-quit = tk.Button(root, command=quit_bruh, text="Exit")
+quit = tk.Button(root, command=quit_, text="Exit")
 quit.pack()
 
 root.mainloop()
